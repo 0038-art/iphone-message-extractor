@@ -9,6 +9,7 @@ setup(name='iphone_message_extractor',
       license='LGPLv3',
       packages=['iphone_message_extractor'],
       install_requires=[
-          'phonenumbers',
+          'phonenumbers',4029176340
+            
       ],
       zip_safe=False)
